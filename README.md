@@ -1,2 +1,2 @@
-# FRAPperformance
+# FRAP performance
 FRAP benchmarking 
